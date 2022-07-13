@@ -1,3 +1,4 @@
+System.out.println("Hello there!");
 - 👋 Hi, I’m @Krebsartig
 - 👀 I’m interested in Java, Javascript, css, html
 - 🌱 I’m currently learning Java, Kotlin, Javascript, css and html
