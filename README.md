@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m @bifacial
 - 👀 I’m interested in Java, Javascript, css, html, rust
-- 🌱 I’m currently learning Java, Kotlin, Javascript
-- 💞️ I’m interested in collaborating with anyone ;)
-- 📫 How to reach me twitter @david_jssn
+- 🌱 I’m currently learning Rust and Svelte
+- 📫 Reach me on discord @bifacial_ or via email: jessen.david@icloud.com
 
 
